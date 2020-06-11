@@ -1,6 +1,8 @@
-# Telco Churn Analysis
+# Telco Churn Analysis: Project Overview
 
-# Exploratory Data Analysis 
+Data Cleaning
+
+Exploratory Data Analysis 
 ![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/Dashboard%201.png)
 
 ![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/Dashboard%202.png)
