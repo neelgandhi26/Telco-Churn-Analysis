@@ -14,6 +14,9 @@
 
 ![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/TechSupport_Plot.png)
 
+![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/Corrplot.png)
+
+![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/Scatterplot.png)
 ## Model Building
 
 ## Model Performance
