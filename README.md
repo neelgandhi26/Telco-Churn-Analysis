@@ -18,5 +18,6 @@
 
 ![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/Scatterplot.png)
 ## Model Building
+First, I transformed categorical variables into dummy variables. Next, I split the data into train/test set with a 80/20 split.
 
 ## Model Performance
