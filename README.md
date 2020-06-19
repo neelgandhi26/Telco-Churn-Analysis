@@ -21,7 +21,7 @@ First, I split the data into train/test set with a 80/20 split.Next, I trained a
 ## Model Performance
 The accuracy of the logistic regression and decision tree models are fairly similar, but the logisitic regression is a bit better.
 ### Logistic Regression:
-*Accuracy: 81.62%
-*AUC: 86.37%
+- Accuracy: 81.62%
+- AUC: 86.37%
 ### Decision Tree
 •	Accuracy: 79.85%
