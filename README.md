@@ -17,6 +17,7 @@ The accuracy of the logistic regression and decision tree models are fairly simi
 ### Logistic Regression:
 - Accuracy: 81.62%
 - AUC: 86.37%
+
 ![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/ROC_Curve.png)
 ### Decision Tree
 •	Accuracy: 79.85%
