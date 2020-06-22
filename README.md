@@ -1,7 +1,8 @@
 # Telco Churn Analysis: Project Overview
 
 ## Objective
-
+- Find feature that impact Churn in the Telco Industry
+- Predict if a customer is likely to churn or not based on given features
 ## Data Cleaning
 - Since there was only 11 values missing in the TotalCharges column out of 7043, which is less than 1%, it is safe to remove those 11 observation.
 - Removed Noise variable (CustomerID)
