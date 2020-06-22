@@ -2,6 +2,7 @@
 
 ## Data Cleaning
 - Since there was only 11 values missing in the TotalCharges column out of 7043, which is less than 1%, it is safe to remove those 11 observation.
+- Removed Noise variable (CustomerID)
 ## Exploratory Data Analysis 
 ![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/SeniorCitizen_Plot.png)
 ![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/Contract_Plot.png)
