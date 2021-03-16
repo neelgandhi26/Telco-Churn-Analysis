@@ -26,11 +26,28 @@ First, I created two dataset, one with all independent variables (x) and one wit
 - Logisitc Regression
 - Decision Tree
 - Bagging
-- Boosting
-- Neural Network
+- Gradient Boosting
+- AdaBoost with Logistic Regression
 ## Model Performance
 The metric used to determine the best model was precision. 
 ### KNN:
 - Precision: 0.56
 ![alt text](https://github.com/neelgandhi26/Telco-Churn-Prediction/blob/master/KNN.png)
+### SVM
+- Precision: 0.72
+- Type of SVM: RBF
+### Logistic Regression
+- Precision: 0.65
+![alt text](https://github.com/neelgandhi26/Telco-Churn-Prediction/blob/master/Logistic_Regression.png)
+### Decision Tree
+- Precison: 0.58
+### Bagging
+- Precision 0.63
+- Type: Bagging using Random Forest
+### Gradient Boosting
+- Precision: 0.65
+### AdaBoost with Logistic Regression
+- Precision: 0.63
+## Features that Impact Customer Churn
+![alt text](https://github.com/neelgandhi26/Telco-Churn-Prediction/blob/master/Feature_Importance.png)
 
