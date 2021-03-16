@@ -20,7 +20,7 @@
 ## Model Building
 First, I created two dataset, one with all independent variables (x) and one with the dependent variable (y). Then both dataset were split into training and test datasets using train_test_split in Sklearn. Next, I scaled the data using MinMaxScaler. Finally, I built various classifiers to predict if a customer was likely to churn or not. 
 
-#Classifers Used:
+# Classifers Used:
 - KNN
 - SVM
 - Logisitc Regression
