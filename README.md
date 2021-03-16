@@ -21,13 +21,13 @@
 First, I created two dataset, one with all independent variables (x) and one with the dependent variable (y). Then both dataset were split into training and test datasets using train_test_split in Sklearn. Next, I scaled the data using MinMaxScaler. Finally, I built various classifiers to predict if a customer was likely to churn or not. 
 
 #Classifers Used:
--KNN
--SVM
--Logisitc Regression
--Decision Tree
--Bagging
--Boosting
--Neural Network
+- KNN
+- SVM
+- Logisitc Regression
+- Decision Tree
+- Bagging
+- Boosting
+- Neural Network
 ## Model Performance
 The accuracy of the logistic regression and decision tree models are fairly similar, but the logisitic regression is a bit better.
 ### Logistic Regression:
