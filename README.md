@@ -7,7 +7,7 @@
 - Imputed missing values
 - Removed Noise variable (CustomerID)
 ## Exploratory Data Analysis 
-![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/SeniorCitizen_Plot.png)
+![alt text](https://github.com/neelgandhi26/Telco-Churn-Prediction/blob/master/EDA1.PNG)
 ![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/Contract_Plot.png)
 ![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/InternetService_Plot.png)
 ![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/OnlineSecurity_Plot.png)
