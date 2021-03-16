@@ -7,13 +7,16 @@
 - Imputed missing values
 - Removed Noise variable (CustomerID)
 ## Exploratory Data Analysis 
-![alt text](https://github.com/neelgandhi26/Telco-Churn-Prediction/blob/master/EDA1.PNG)
-![alt text](https://github.com/neelgandhi26/Telco-Churn-Prediction/blob/master/EDA2.PNG)
-![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/InternetService_Plot.png)
-![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/OnlineSecurity_Plot.png)
-![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/TechSupport_Plot.png)
-![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/Corrplot.png)
-![alt text](https://github.com/neelgandhi26/Telco-Churn-Analysis/blob/master/Scatterplot.png)
+![alt text](https://github.com/neelgandhi26/Telco-Churn-Prediction/blob/master/SeniorCitizen.png)
+![alt text](https://github.com/neelgandhi26/Telco-Churn-Prediction/blob/master/InternetService.png)
+![alt text](https://github.com/neelgandhi26/Telco-Churn-Prediction/blob/master/OnlineSecurity.png)
+![alt text](https://github.com/neelgandhi26/Telco-Churn-Prediction/blob/master/PaperlessBilling.png)
+![alt text](https://github.com/neelgandhi26/Telco-Churn-Prediction/blob/master/StreamingTV.png)
+![alt text](https://github.com/neelgandhi26/Telco-Churn-Prediction/blob/master/StreamingMovies.png)
+![alt text](https://github.com/neelgandhi26/Telco-Churn-Prediction/blob/master/OnlineBackup.png)
+![alt text](https://github.com/neelgandhi26/Telco-Churn-Prediction/blob/master/TechSupport.png)
+![alt text](https://github.com/neelgandhi26/Telco-Churn-Prediction/blob/master/DeviceProtection.png)
+![alt text](https://github.com/neelgandhi26/Telco-Churn-Prediction/blob/master/Contract.png)
 ## Model Building
 First, I split the data into train/test set with a 80/20 split.Next, I trained a logisitic regression and decision tree models using the caret and rpart packages.
 ## Model Performance
